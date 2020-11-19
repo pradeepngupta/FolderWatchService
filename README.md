@@ -1,5 +1,5 @@
 # FolderWatchService
-A FolderWatch Service in Windows OS with Powershell script and NSSM (Non-Sucking Service Manager) [https://nssm.cc/]
+A FolderWatch Service in Windows OS with Powershell script and NSSM (Non-Sucking Service Manager) [https://nssm.cc/] to motintor adding new file in the specific folder.
 
 There are two main properties file to configure the FolderWatcher service after you download the code from this repository
 1. Service/service.properties - For configuration the service name / description
